@@ -63,7 +63,7 @@ The goals of the analysis are to:
 |---|---|
 | `greek_data.xls` | Raw 2001 census data: population counts by age group, gender, and municipality |
 | `Clustering_Project_Code.R` | Main R script: data cleaning, hierarchical clustering, model-based clustering, evaluation, and visualization |
-| *(report file — add here once uploaded)* | Full project write-up |
+| `Clustering_Project_Report.pdf` | Full project write-up |
 
 > **Note:** `Clustering_Code.txt` was an earlier draft of the same script and can be
 > removed to avoid duplication — `Clustering_Project_Code.R` is the file to run.
